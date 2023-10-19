@@ -22,3 +22,12 @@ Deliverables
 </ul>
 <p>First table displays trendsetters ranked by score, highest to lowest</p>
 <p>Second table displays trendsetters ranked by radius of influence, highest to lowest</p>
+
+
+<p>In the Gowalla Project, I worked on a technical data analysis task using the Stanford University dataset. I utilized Apache Spark and PySpark to handle and process the dataset efficiently. The project involved various technical aspects, including data cleaning, aggregation, and complex SQL queries to identify trendsetters based on their check-in behavior.
+
+I implemented a system for calculating trendsetter scores and estimated the radius of influence for each trendsetter. These calculations required using geographical distance metrics on latitude and longitude data. The entire process was performed in a distributed computing environment, which allowed for scalability and efficient handling of large datasets.
+
+The final output was presented as two tables, each containing user IDs, trendsetter scores, and radius of influence. One table ranked trendsetters by their scores, while the other ranked them by their radius of influence.
+
+Throughout the project, I leveraged my technical skills in data processing, SQL, and data analysis, showcasing the ability to derive meaningful insights from complex datasets.</p>
